@@ -19,4 +19,12 @@ Github Profile
 - 🌱 Actualmente estoy aprendiendo **Testing de Software y Automatización** en **TripleTen Latam**.  
 - 🔍 Me especializo en **pruebas funcionales, exploratorias y automatizadas**.  
 - 🚀 Me apasiona la calidad del software y la mejora continua.  
-- 💡 Me encanta aprender nuevas tecnologías y mejorar mis habilidades como **QA Engineer**. 
+- 💡 Me encanta aprender nuevas tecnologías y mejorar mis habilidades como **QA Engineer**.
+
+- <div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img decoding="async" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+    <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel"/>
+    <img decoding="async" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white" alt="Microsoft Word"/>
+    <img decoding="async" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</div>
