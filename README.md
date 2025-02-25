@@ -11,3 +11,9 @@ Github Profile
   <img decoding="async" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Sandybell07.Sandybell07&color=00cf00" alt="Contador de visitas"/>
 </div>
 
+## 👩🏽‍💻 Sobre mí  
+
+- 🌱 Actualmente estoy aprendiendo **Testing de Software y Automatización** en **TripleTen Latam**.  
+- 🔍 Me especializo en **pruebas funcionales, exploratorias y automatizadas**.  
+- 🚀 Me apasiona la calidad del software y la mejora continua.  
+- 💡 Me encanta aprender nuevas tecnologías y mejorar mis habilidades como **QA Engineer**. 
