@@ -22,6 +22,10 @@ Github Profile
 - 💡 Me encanta aprender nuevas tecnologías y mejorar mis habilidades como **QA Engineer**.
 
 -<div id="header" align="left">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sandybell07&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sandybell07&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
     <img decoding="async" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
     <img decoding="async" src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
